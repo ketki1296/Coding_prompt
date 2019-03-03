@@ -1,4 +1,0 @@
-language: python
-python:
-  - "3.6"
-script: python mergeyamlfiles.py /home/ketaki/dir1/dir2/dir3/dir4/example.yaml
