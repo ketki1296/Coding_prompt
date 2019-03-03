@@ -1,3 +1,12 @@
+Two python files are created:
+1. mergeyamlfiles.py
+2. mergeyamlfiles1.py
+
+For mergeyamlfiles.py:
+It is a code written to run on a local machine (without configuring Travis CI).
+
+Documentation for various test cases is available in the document: Readme, Documentation and Test cases.pdf
+
 As an input from the user, the whole path to the file that has to be worked on has to be given as an Input.
 
 There have been 3 cases mentioned in the problem statement, the output will be according to them. 
@@ -15,3 +24,8 @@ For duplicate keys:
 3. If the child’s key has a dict value and the parent’s key has int/float/str/list then we will ignore the parent’s key.
 
 The code ensures that all keys are maintained.
+
+For  mergeyamlfiles1.py:
+It is a code written to be run using Travis CI. The only difference in the 2 codes how the input to the file is generated.
+
+Documentation has screenshot for the 3 test cases given in the Problem Statement. Output for other test will stay the same as for mergeyamlfiles.py since only the method of taking input changes.
