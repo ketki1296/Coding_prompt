@@ -1,4 +1,6 @@
 language: python
 python:
   - "3.6"
+install:
+  - pip install pyyaml
 script: python mergeyamlfiles1.py ./dir1/dir2/dir3/dir4/example.yaml
