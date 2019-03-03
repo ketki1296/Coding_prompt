@@ -5,7 +5,7 @@ Two python files are created:
 For mergeyamlfiles.py:
 It is a code written to run on a local machine (without configuring Travis CI).
 
-Documentation for various test cases is available in the document: Readme, Documentation and Test cases.pdf
+Documentation for various test cases is available in the document: Documentation and Test cases.pdf
 
 As an input from the user, the whole path to the file that has to be worked on has to be given as an Input.
 
