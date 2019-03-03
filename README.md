@@ -28,4 +28,4 @@ The code ensures that all keys are maintained.
 For  mergeyamlfiles1.py:
 It is a code written to be run using Travis CI. The only difference in the 2 codes how the input to the file is generated.
 
-Documentation has screenshot for the 3 test cases given in the Problem Statement. Output for other test will stay the same as for mergeyamlfiles.py since only the method of taking input changes.
+Documentation has screenshot for the 3 test cases given in the Problem Statement. Output for other test cases will stay the same as for mergeyamlfiles.py since only the method of taking input changes.
